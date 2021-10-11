@@ -28,7 +28,7 @@ Ref. https://mdbootstrap.com/docs/b4/jquery/plugins/rating/
 (Text Area, min 15 characters - max 200 characters)
 7. Advice Management
 (Text Area, min 15 characters - max 200 characters)
-Step 3:
+
 1. Submit Proof (On submit store file in upload folder)
 (File upload, allowed file type doc and pdf)
 2. Agree Terms and Condition 
