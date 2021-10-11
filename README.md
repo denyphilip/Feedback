@@ -1,7 +1,7 @@
 # Feedback
 Description:
 With help of this module, user can submit their feedback.
-Frontend:
+
 - Welcome page with bootrap menu with menu items - Login
 - On center of the page there will be a button to submit feedback
 - Manage Session for logged in user.
@@ -12,7 +12,6 @@ Frontend:
 (Radio button with options Current, Former)
 2. Employer's Name
 (Text Field)
-Step 2: 
 1. Overall Rating 
 (Out of 5 star, user can give star rating, use feedback star UI 
 Ref. https://mdbootstrap.com/docs/b4/jquery/plugins/rating/
